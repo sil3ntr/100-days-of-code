@@ -13,3 +13,10 @@ I am a bit tired so I was stuggling to concentrate towards the end of the hour. 
 
 Second day down, much more awake this evening, back into the swing of things, polished off
 the first section HTML5 and CSS. Starting on the Response Design with bootstrap tomorrow
+
+###R1D3####
+
+Did a half of the Design with bootstrap section, tired didnt get a full hour in or tweet.
+
+###R1D4#####
+Got in 45 quite late and I need to ride in the morning. Finished bootstrap responsive section in freecodecamp. Next will be Jquery. feeling good but Its late and I am tired.
