@@ -20,3 +20,14 @@ Did a half of the Design with bootstrap section, tired didnt get a full hour in 
 
 ###R1D4#####
 Got in 45 quite late and I need to ride in the morning. Finished bootstrap responsive section in freecodecamp. Next will be Jquery. feeling good but Its late and I am tired.
+
+
+
+####R1D5####
+Baby sitting, tried using codecamp on my phone, worked for a couple of challenges and the keyboard (phone) 
+made it difficultt to progress, spent about 30 mins looking at codecamp etc
+
+####R1D6####
+Spent a real hour today, got Arch and Gnome running on a seperate HDD on my laptop (setup not included in the 
+hour) worked through the last of the jQuery challenges, onto the the projects next.. excited.
+
