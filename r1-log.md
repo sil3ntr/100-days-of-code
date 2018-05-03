@@ -31,3 +31,7 @@ made it difficultt to progress, spent about 30 mins looking at codecamp etc
 Spent a real hour today, got Arch and Gnome running on a seperate HDD on my laptop (setup not included in the 
 hour) worked through the last of the jQuery challenges, onto the the projects next.. excited.
 
+####R1D6####
+Started on the Tribute project for the freecodecamp course, slow start 
+but coming together a bit after an hour or so. 
+https://codepen.io/sil3ntr/full/jxmvdd/ #100daysofcode #freecodecamp 
