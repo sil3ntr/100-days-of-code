@@ -35,3 +35,11 @@ hour) worked through the last of the jQuery challenges, onto the the projects ne
 Started on the Tribute project for the freecodecamp course, slow start 
 but coming together a bit after an hour or so. 
 https://codepen.io/sil3ntr/full/jxmvdd/ #100daysofcode #freecodecamp 
+
+####R1D7####
+Continued with tribute project, happy with my start and general layout
+
+####R1D8####
+Spent most of my time playing around with the containers properties, 
+still don't know why some of my elements are out of order. Need to 
+figure it out.
