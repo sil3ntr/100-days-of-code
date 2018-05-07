@@ -43,3 +43,7 @@ Continued with tribute project, happy with my start and general layout
 Spent most of my time playing around with the containers properties, 
 still don't know why some of my elements are out of order. Need to 
 figure it out.
+
+
+####R1D9####
+Spent the majority of my time troublshooting vscode install on Arch :/
