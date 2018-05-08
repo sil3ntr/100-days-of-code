@@ -47,3 +47,6 @@ figure it out.
 
 ####R1D9####
 Spent the majority of my time troublshooting vscode install on Arch :/
+
+####R1D10###
+Tribue finished and a good start templating the portfolio project.
