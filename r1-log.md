@@ -50,3 +50,10 @@ Spent the majority of my time troublshooting vscode install on Arch :/
 
 ####R1D10###
 Tribue finished and a good start templating the portfolio project.
+
+
+#####R1D11####
+Portfolio project started stuck on getting some CSS to work correctly :/
+
+####R1D12#####
+R1D12, FCC Portfolio project, slow progress but I want to make sure it's just right before moving onto JS. #100DaysOfCode #freeCodeCamp 
