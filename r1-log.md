@@ -57,3 +57,6 @@ Portfolio project started stuck on getting some CSS to work correctly :/
 
 ####R1D12#####
 R1D12, FCC Portfolio project, slow progress but I want to make sure it's just right before moving onto JS. #100DaysOfCode #freeCodeCamp 
+
+####R1D13####
+R1D13 - messed around by adding MD CDN to my FCC Portfolio page, some really great shadow effects #miniallove #fontisenough #100daysofcode #freecodecamp
