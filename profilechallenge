@@ -1,0 +1,12 @@
+var i = 0;
+while (i < contacts.length){
+    console.log(contacts[i].firstName);
+    if (name === contacts[i].firstName){
+        //if (contacts[i][prop] !== ""){
+            return (contacts[i].prop);
+            //}
+        }else if (contacts[i].firstname !== name)  {
+            console.log("WTF?");
+            return ("No such contact");
+    }
+    i++;
